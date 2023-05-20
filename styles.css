@@ -1,12 +1,10 @@
-.player_one{
-	background-color:white;
-}
 body{
-	background-color: #cccccc;
+	background-color:"black";
 }
+
 a{
-	text-decoration:none;
+	text-decoration: none;
 }
 .player_two{
-	background-color:white;
+    text-align: center;
 }
